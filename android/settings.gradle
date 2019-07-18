@@ -1,0 +1,3 @@
+rootProject.name = 'adder'
+
+include ':app'
