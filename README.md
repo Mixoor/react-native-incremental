@@ -19,3 +19,4 @@
 
 ```
 
+![](https://raw.githubusercontent.com/Mixoor/react-native-incremental/master/Capture.PNG)
